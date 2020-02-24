@@ -1,34 +1,14 @@
 ---
 layout: post
-title:  "入坑!"
-date:   2020-02-23 15:24:29 +0800
+title:  "捣鼓"
+date:   2020-02-24 22:24:29 +0800
 categories: jekyll update
 ---  
-*你好！*  
-今天又进步了一点哟！加油！  
-| 语文 | 数学 |
-|:---|---:|
-| 90 | 100 |  
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+2020.2.22开始，在师兄的教导下学习制作静态网站，感觉简单，但做起来有点复杂，主要是因为我什么都不会。师兄一步一步教，可我也忘得快，简直了，蠢死！  
+学到到今天（2020.2.24）这里，差不多可以写文章，然后传上去了，不过我还需要摸索一下，传不上去可就笑死人了！  
+要非常感谢师兄和自己！哈哈哈哈哈！  
+![]({{site.baseurl}}/assets/images/3.jpg)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
