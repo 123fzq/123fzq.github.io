@@ -10,7 +10,7 @@ categories: jekyll update
 &emsp;&emsp;
 我也是服了，给了我们40分钟的时间，是要我把那些查出来的命令都试完吗，老师太负责了，而我也懒，你说谁会去做呀，我现在都来搞这个东西了，哎呀呀！
 时间差不多了，我上传了，应该就又开始上课了！  
-我退出来，居然已经开始上课了，我靠！怎么时间提前了！
+&emsp;&emsp;我退出来，居然已经开始上课了，我靠！怎么时间提前了！
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
