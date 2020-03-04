@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "上课"
+date:   2020-02-26 15:24:29 +0800
+categories: jekyll update
+---  
+
+![]({{site.baseurl}}/images/4.gif)  
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
