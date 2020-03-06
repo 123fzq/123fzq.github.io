@@ -8,7 +8,10 @@ categories: jekyll update
 ![]({{site.baseurl}}/images/4.gif)  
 <video controls preload width="720" height="480">
 <source src="/assets/video/5.mp4" type="video/mp4">  
-</video>
+</video>  
+<audio controls preload>
+    <source src="/assets/audios/张杰 - 过云雨.mp3" type="audio/mpeg">
+</audio>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
