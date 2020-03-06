@@ -7,7 +7,7 @@ categories: jekyll update
 
 ![]({{site.baseurl}}/images/4.gif)  
 <video controls preload width="720" height="480">
-<source src="/assets/videos/5.mp4" type="video/mp4">  
+<source src="/_site/images/5.mp4" type="video/mp4">  
 </video>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
