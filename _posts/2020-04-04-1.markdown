@@ -4,7 +4,7 @@ title:  "恶作剧"
 date:   2020-04-04 21:24:29 +0800
 categories: jekyll update
 ---  
-<strong style="background:yellow">**会弹出小窗口的恶作剧**
+<strong style="background:yellow">**会弹出小窗口的恶作剧**  
 1.msgbox"自己想的文字",运行就会弹出一个带有文字的小窗口。![]({{site.baseurl}}/images/9.jpg)  
 2.msgbox "你确定要执行操作吗？",vbokcancel,"确定？",运行时就会弹出带有“确定”和“取消”两个选项的小窗口,但是这个按钮按了之后没什么实际操作,就是一个空的壳,应该里面是有内容可以写的,但我还不会。![]({{site.baseurl}}/images/8.jpg)  
 3.msgbox "网络安全技术组",64,"提示",运行时就会弹出一个带有提示的小窗口。![]({{site.baseurl}}/images/10.jpg)  
