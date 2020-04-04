@@ -4,15 +4,15 @@ title:  "恶作剧"
 date:   2020-04-04 21:24:29 +0800
 categories: jekyll update
 ---  
-> <strong style="background:yellow">**会弹出小窗口的恶作剧**
->> 1.msgbox"自己想的文字",运行就会弹出一个带有文字的小窗口。![]({{site.baseurl}}/images/9.jpg)  
->> 2.msgbox "你确定要执行操作吗？",vbokcancel,"确定？",运行时就会弹出带有“确定”和“取消”两个选项的小窗口,但是这个按钮按了之后没什么实际操作,就是一个空的壳,应该里面是有内容可以写的,但我还不会。![]({{site.baseurl}}/images/8.jpg)  
->> 3.msgbox "网络安全技术组",64,"提示",运行时就会弹出一个带有提示的小窗口。![]({{site.baseurl}}/images/10.jpg)  
->> 4.do
+<strong style="background:yellow">**会弹出小窗口的恶作剧**
+1.msgbox"自己想的文字",运行就会弹出一个带有文字的小窗口。![]({{site.baseurl}}/images/9.jpg)  
+2.msgbox "你确定要执行操作吗？",vbokcancel,"确定？",运行时就会弹出带有“确定”和“取消”两个选项的小窗口,但是这个按钮按了之后没什么实际操作,就是一个空的壳,应该里面是有内容可以写的,但我还不会。![]({{site.baseurl}}/images/8.jpg)  
+3.msgbox "网络安全技术组",64,"提示",运行时就会弹出一个带有提示的小窗口。![]({{site.baseurl}}/images/10.jpg)  
+4.do
 msgbox("文字")
 loop,这样运行出来不会关闭,会一直有小窗口出来,哈哈哈,要的就是这个效果。 
->>> 解决方法：1.直接关机吧,简单粗暴,哈哈哈。2.Ctrl+Alt+Delete 打开任务管理器,里面有一个叫wscript的进程,选中它，并结束任务。  
-> 5.do
+> 解决方法：1.直接关机吧,简单粗暴,哈哈哈。2.Ctrl+Alt+Delete 打开任务管理器,里面有一个叫wscript的进程,选中它，并结束任务。  
+5.do
 m = MsgBox("准备好了吗?", vbOKCancel)
 If m = vbCancel Then MsgBox "取消", vbCritical
 Loop While m = vbCancel,运行会弹出一个有“确定”和“取消”两个选项的小窗口,这次按“取消”就不行了,它会一直重复,直到你选择“确定”,哈哈哈哈,强迫你,哈哈哈。![]({{site.baseurl}}/images/11.jpg)   
