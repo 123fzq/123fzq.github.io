@@ -12,7 +12,7 @@ categories: jekyll update
 msgbox("文字")
 loop,这样运行出来不会关闭,会一直有小窗口出来,哈哈哈,要的就是这个效果。 
 >>> 解决方法：1.直接关机吧,简单粗暴,哈哈哈。2.Ctrl+Alt+Delete 打开任务管理器,里面有一个叫wscript的进程,选中它，并结束任务。  
->> 5.do
+> 5.do
 m = MsgBox("准备好了吗?", vbOKCancel)
 If m = vbCancel Then MsgBox "取消", vbCritical
 Loop While m = vbCancel,运行会弹出一个有“确定”和“取消”两个选项的小窗口,这次按“取消”就不行了,它会一直重复,直到你选择“确定”,哈哈哈哈,强迫你,哈哈哈。![]({{site.baseurl}}/images/11.jpg)   
