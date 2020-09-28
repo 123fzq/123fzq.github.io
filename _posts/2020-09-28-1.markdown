@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "玩嗨"
+date:   2020-09-28 17:20:00 +0800
+categories: jekyll update
+---  
+上周我们的专业老师带人去比赛，我们基本上一周没有上专业课了！  
+天气也不热，小雨。  
+昨天星期天，竟然是我们学院升国旗，还好早上下雨了，不用早起，耶！  
+现在在上阳鹏的课，他一直在和学生摆龙门阵，6！他布置了国庆的Java作业，制作一个小游戏之类的，然后现在让我们做。  
+再上两天专业课，我们就可以放国庆假期了，8天时间，太棒了！  
+国庆回来不知道会不会补之前的专业课，那我们就惨了，哈哈哈哈哈，不知道要上多少课了！
+
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
